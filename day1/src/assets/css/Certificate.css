@@ -1,0 +1,87 @@
+.cc1
+{
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\cam.jpg");
+    background-size:cover ;
+    opacity:85%;
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin-top:50px ;
+    margin-left:50px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.cc2
+{
+
+
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\ielts.jpg");
+    background-size:cover ;
+    opacity:85%;
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin-top:-300px ;
+    margin-left:400px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.cc3
+{
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\toefl.jpg");
+    background-size:cover ;
+    opacity:85%;
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin-top:-300px ;
+    margin-left:750px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.cc4
+{
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\Pearson.png");
+    background-size:cover ;
+    opacity:85%;
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin-top:-300px ;
+    margin-left:1100px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.cc5
+{
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\trinity-laban-college-london.jpg");
+    background-size:cover ;
+  
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin-top:20px ;
+    margin-left:50px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.cc6
+{
+    height:300px;
+    width:300px;
+    margin-top:-300px ;
+    margin-left:400px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+body{
+    margin:0px;
+
+}

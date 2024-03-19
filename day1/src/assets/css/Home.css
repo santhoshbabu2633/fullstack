@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.hbg
+{
+    
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\cert.webp");
+    height:30vh;
+    opacity:85%;
+    background-size: cover;;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.logo
+{
+    background-color: black;
+}
+.dd
+{
+    height:500px;
+    color:red;
+    font-size: 150px;
+    margin-left:600px;
+    background-color: white;
+    margin-top:-400px;
+  
+
+}
+.p1
+{
+    margin-top:-80px ;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman';
+
+    font-size:larger;
+}
