@@ -1,0 +1,94 @@
+.navbar {
+  display: flex;
+  background-color:black; 
+  color: white; 
+  font-family: Arial;
+  text-align: center;
+
+
+}
+
+.o{
+  margin-top: 15px;
+
+}
+.db
+{
+  height:50vh;
+  width:50vh;
+  background-color: white;
+}
+
+
+
+.navbar__link {
+  text-decoration: none; 
+  color: inherit; 
+}
+.navbar a {
+  float: left;
+  margin-left: 10px;;
+  font-size: 15px;
+  font-family:serif;
+  color:white;
+  margin-top: 5px;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+.navbar__link:hover {
+  text-decoration: underline; 
+}
+.link{
+  text-decoration: none;
+  color:inherit;
+}
+.profile
+{
+  margin-left:800px;
+  height:50px;
+}
+.s1
+{
+  margin-top: 30px;
+  margin-left:20px;
+  color:black;
+}
+.s2
+{
+  margin-top: 10px;
+  margin-left:20px;
+  color:black;
+}
+.s3
+{
+  margin-top: 10px;
+  margin-left:20px;
+  color:black;
+}
+.s4
+{
+  margin-top: 10px;
+  margin-left:20px;
+  color:black;
+}
+.img
+{
+  height:20vh;
+  width:20vh;
+  background-color: black;
+  margin-top: 20px;
+  margin-left: 120px;
+  border-radius: 50%;
+}
+.bts
+{
+  margin-top: 10px;
+  margin-left:150px;
+  width: 20%;
+ background: red;
+  border: none;
+ color: #fff;
+ padding: 10px;
+ border-radius: 5px;
+ cursor: pointer;
+}

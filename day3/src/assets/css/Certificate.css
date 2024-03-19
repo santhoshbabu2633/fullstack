@@ -1,0 +1,146 @@
+.cc1
+{
+    font-style: italic;
+    font-size: x-large;
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\lc.webp");
+    background-size:cover ;
+    
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin-top:50px ;
+    margin-left:50px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: transform 0.3s ease;
+    
+}
+.cc1:hover{
+    transform: scale(1.2);
+
+}
+.cc2
+{
+
+
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\ielts.jpg");
+    background-size:cover ;
+    
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin-top:-300px ;
+    margin-left:400px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: transform 0.3s ease;
+    
+}
+.cc2:hover{
+    transform: scale(1.2);
+
+}
+.cc3
+{
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\toefl.jpg");
+    background-size:cover ;
+   
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin-top:-300px ;
+    margin-left:750px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: transform 0.3s ease;
+    
+}
+.cc3:hover{
+    transform: scale(1.2);
+
+}
+.cc4
+{
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\Pearson.png");
+    background-size:cover ;
+  
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin-top:-300px ;
+    margin-left:1100px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: transform 0.3s ease;
+    
+}
+.cc4:hover{
+    transform: scale(1.2);
+
+}
+.cc5
+{
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\trinity-laban-college-london.jpg");
+    background-size:cover ;
+    font-style: italic;
+    font-size: x-large;
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin-top:20px ;
+    margin-left:50px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: transform 0.3s ease;
+    
+}
+.cc5:hover
+{
+    transform: scale(1.2);
+}
+
+.cc6
+{
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\cam.jpg");
+    background-size:cover ;
+    font-style: italic;
+    font-size: x-large;
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin-top:-300px ;
+    margin-left:400px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: transform 0.3s ease;
+    
+}
+.cc6:hover{
+    transform: scale(1.2);
+
+}
+.cc7
+{
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\cam.jpg");
+    background-size:cover ;
+    font-style: italic;
+    font-size: x-large;
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin-top:-300px ;
+    margin-left:750px;
+    background-color:white;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: transform 0.3s ease;
+    
+}
+.cc7:hover{
+    transform: scale(1.2);
+
+}
+
+body{
+    margin:0px;
+
+}

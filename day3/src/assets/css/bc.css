@@ -1,0 +1,139 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.lcc1
+{
+    height:20vh;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width:30vh;
+    margin-left: 50px;
+    margin-top: 50px;
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\cam.jpg");
+    background-size: cover;
+
+}
+.lcc2
+{
+    height:20vh;
+    width:30vh;
+    margin-top: -51vh;
+    margin-left: 350px;
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\cam.jpg");
+    background-size: cover;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.lcc3
+{
+    height:20vh;
+    width:30vh;
+    margin-top: -51vh;
+    margin-left: 660px;
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\cam.jpg");
+    background-size: cover;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.lcc4
+{
+    height:20vh;
+    width:30vh;
+    margin-top: -51vh;
+    margin-left: 950px;
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\lc.webp");
+    background-size: cover;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.lcc5
+{
+    height:20vh;
+    width:30vh;
+    margin-top: -51vh;
+    margin-left: 1250px;
+    background-image: url("C:\Users\Dell\xcode\src\assets\images\lc.webp");
+    background-size: cover;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.lcc11
+{
+    height:30vh;
+    width:30vh;
+    margin-top:10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left:50px;
+    font-weight: bold;
+    text-align: center;
+ 
+
+
+}
+.lcc21
+{
+    height:30vh;
+    width:30vh;
+    margin-top:10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left:350px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+.lcc31
+{
+    height:30vh;
+    width:30vh;
+    margin-top:10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left:660px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+.lcc41
+{
+    height:30vh;
+    width:30vh;
+    margin-top:10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left:950px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+.lcc51
+{
+    height:30vh;
+    width:30vh;
+    margin-top:10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left:1250px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+
+.aBtn {
+    width: 30%;
+    background: red;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+    
+}
+
+.aBtn:hover {
+    background: green;
+   
+}
+

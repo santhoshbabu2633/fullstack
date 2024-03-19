@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.loginbox
+{
+    height:500px;
+    width:500px;
+    margin-left:800px;
+    margin-top:-500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.h1
+{
+    text-align: center;
+    color:black;
+    font-size:200%;
+    font-weight: bolder;
+
+}
+.n1{
+   margin-left: 50px;
+   text-decoration: none;
+    color:black;
+    margin-top: 50px;
+    
+
+}
+.in1
+{
+    width: 50%;
+    padding: 10px;
+    margin-left: 100px ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 100px;
+}
+.in2 {
+    width: 50%;
+    padding: 10px;
+    margin-left: 100px ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 50px;
+    
+}
+
+.loginBtn {
+    width: 30%;
+    background: red;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 150px ;
+    margin-top: 40px;
+}
+
+.loginBtn:hover {
+    background: #0056b3;
+}
+.loginbox1
+{
+    background-image:url("C:\Users\Dell\xcode\src\assets\images\a.jpg"); 
+    height:500px;
+    width:500px;
+    margin-left:300px;
+    margin-top: 100px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.fp
+{
+    margin-left: 300px;
+    margin-top: -20px;
+    text-decoration: none;
+}
+.link
+{
+    text-decoration: none;
+    color: inherit;
+}
