@@ -1,0 +1,100 @@
+body
+{
+    margin:0px;
+    padding:0px;
+}
+.ud1
+{
+
+    height:50vh;
+    width:50vh;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 50px;
+    margin-left: 300px;
+    text-align: center;
+    font-size: xx-large;
+    color:blue;
+    transition: transform 0.3s ease;
+
+}
+
+.ud2
+{
+    height:50vh;
+    width:50vh;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: -107vh;
+    margin-left: 850px;
+    text-align: center;
+    font-size: xx-large;
+    color:red;
+    transition: transform 0.3s ease;
+   
+
+
+}
+.ud3
+{
+    height:50vh;
+    width:50vh;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 7vh;
+    margin-left: 850px;
+    text-align: center;
+    font-size: xx-large;
+    color:green;
+    transition: transform 0.3s ease;
+
+}
+.ud11
+{
+    height:30vh;
+
+    
+}
+.ud3:hover{
+    transform: scale(1.2);
+
+}
+.ud21
+{
+    height:30vh;
+    
+    
+}
+.ud2:hover{
+    transform: scale(1.2);
+
+}
+
+.ud31
+{
+    height:30vh;
+   
+}
+.ud41
+{
+    height:30vh;
+    width:40vh;
+}
+.ud1:hover{
+    transform: scale(1.2);
+
+}
+.ud4{
+    height:30vh;
+    width:50vh;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+    
+    text-align: center;
+    font-size: xx-large;
+    color:green;
+    transition: transform 0.3s ease;
+
+
+}
+.ud4:hover{
+    transform: scale(1.2);
+
+}

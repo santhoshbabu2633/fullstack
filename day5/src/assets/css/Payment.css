@@ -1,0 +1,110 @@
+.pbox
+{
+  height:70vh;
+  width:50vh;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: 100px;
+  margin-left: 400px;
+  background-image: url("C:\Users\Dell\xcode\src\assets\images\pay.webp");
+}
+.pbox1
+{
+  height:70vh;
+  width:50vh;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-top: -550px;
+  margin-left: 800px;
+}
+body{
+    margin:0px;
+    padding:0px;
+
+}
+.con1
+{
+   height:10vh;
+    padding: 10px;
+    margin-left: 10px ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+.modal
+{
+    top:10px;
+    right:20px;
+}
+.con2
+{
+    height:10vh;
+    padding: 10px;
+    margin-left: 160px ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+.con3
+{
+    width: 50%;
+    padding: 10px;
+    margin-left: 100px ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+.con4
+{
+    width: 50%;
+    padding: 10px;
+    margin-left: 100px ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+.con5
+{
+    width: 20%;
+    padding: 10px;
+    margin-left: 50px ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+.con6
+{
+    width: 20%;
+    padding: 10px;
+    margin-left: 100px ;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+.payb {
+    width: 30%;
+    background: blue;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 150px ;
+    margin-top: 40px;
+}
+
+.payb:hover {
+    background:green;
+}
+.ph{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 150%;
+    margin-top: 10px;
+    margin-left: 150px;
+
+}
